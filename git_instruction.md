@@ -9,3 +9,7 @@
 * git add
 * git commit -m "new message"
 * git log
+* git checkout
+* git diff
+
+New Line
