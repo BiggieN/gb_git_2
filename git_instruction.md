@@ -11,5 +11,3 @@
 * git log
 * git checkout
 * git diff
-
-New Line
