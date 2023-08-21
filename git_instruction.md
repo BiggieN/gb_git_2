@@ -57,3 +57,5 @@ git config --global user.email "<адрес_почты@email.com>"
 * git branch
 * git checkout branche_name
 * git checkout commit_name
+
+![CJHfLruU_38.jpg](CJHfLruU_38.jpg)
