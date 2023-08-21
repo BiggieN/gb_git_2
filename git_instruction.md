@@ -52,3 +52,10 @@ git config --global user.email "<адрес_почты@email.com>"
 
 Команда **git diff** покажет отличия между коммитами или коммитом и текущим состоянием.
 
+### Команды второго семинара
+
+* git branch
+* git checkout branche_name
+* git checkout commit_name
+
+![CJHfLruU_38.jpg](CJHfLruU_38.jpg)
