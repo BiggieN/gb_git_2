@@ -33,6 +33,11 @@ git config --global user.email "<адрес_почты@email.com>"
 * git log
 * git checkout
 * git diff
+* git branch
+* git branch <branch_name>
+* git checkout <branche_name>
+* git branch -d <branch_name>
+* git merge
 
 ### Работа с Git
 
@@ -52,10 +57,9 @@ git config --global user.email "<адрес_почты@email.com>"
 
 Команда **git diff** покажет отличия между коммитами или коммитом и текущим состоянием.
 
-### Команды второго семинара
+### Работа с ветвями
 
-* git branch
-* git checkout branche_name
-* git checkout commit_name
+git branch
+
 
 ![CJHfLruU_38.jpg](CJHfLruU_38.jpg)
