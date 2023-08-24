@@ -35,9 +35,9 @@ git config --global user.email "<адрес_почты@email.com>"
 * git diff
 * git branch
 * git branch <branch_name>
-* git checkout <branche_name>
+* git checkout <branch_name>
 * git branch -d <branch_name>
-* git merge
+* git merge <branch_name>
 
 ### Работа с Git
 
@@ -59,7 +59,11 @@ git config --global user.email "<адрес_почты@email.com>"
 
 ### Работа с ветвями
 
-git merge
+Важной частью работы с Git является ветвление. Ветви позволяют работать одновременно нескольким разработчикам параллельно не мешая друг другу. Для начала можно воспользоваться командой git branch. Эта команда выведет список созданных на текущий момент веток. Этот список будет состоять из одной ветки master (main) если ветви не создавались ранее или уже были слиты. 
+
+Чтобы создать новую ветвь нужно воспользоваться командой git branch <branch_name>. После ввода этой команды будет создана новая ветвь, но вы останетесь в текущей ветви.
+
+Чтобы переключиться на вновь созданную ветвь нужно воспользоваться командой git checkout <branch_name>. 
 
 
 ![CJHfLruU_38.jpg](CJHfLruU_38.jpg)
