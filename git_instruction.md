@@ -59,7 +59,7 @@ git config --global user.email "<адрес_почты@email.com>"
 
 ### Работа с ветвями
 
-git branch
+git merge
 
 
 ![CJHfLruU_38.jpg](CJHfLruU_38.jpg)
